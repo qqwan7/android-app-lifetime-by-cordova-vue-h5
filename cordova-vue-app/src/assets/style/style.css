@@ -1,0 +1,97 @@
+/**
+ * Created by qqwan on 2019/01/30.
+ */
+.padding5-10{
+  padding: 5px 10px;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.flex25{
+  flex: 0 0 25%;
+}
+.item {
+  width: 15px;
+  height: 15px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: #b9c7da;
+}
+.item-big {
+  width: 30px;
+  height: 30px;
+}
+.item-small {
+  width: 10px;
+  height: 10px;
+}
+.item-pass {
+  background-color: #b9c7da;
+}
+.item-next {
+  background-color: #41c57c;
+}
+.ml20{
+  margin-left: 20px;
+}
+.ml10{
+  margin-left: 10px;
+}
+.ml5{
+  margin-left: 5px;
+}
+.color-primary{
+  color: #2196f3;
+}
+.pointer{
+  cursor: pointer;
+}
+.pr30{
+  padding-right: 30px;
+}
+.translate90{
+  transform: rotate(90deg);
+}
+.center{
+  text-align: center;
+}
+.pl30{
+  padding-left: 30px;
+}
+.pr30{
+  padding-right: 30px;
+}
+.overflow-x{
+  overflow-x: hidden;
+}
+.position-fix{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+.bg-first{
+  position: fixed;
+  background: url("../img/bg-lifetime.jpg") no-repeat;
+  background-size:100% 100%;
+  top: 0;
+  bottom: 0
+}
+.colorfff{
+  /*color: #fff;*/
+}
+.lh24{
+  line-height: 24px;
+}
+.go-icon{
+  vertical-align: middle;
+}
+.fwb{
+  font-weight: bold;
+}
+.fz16{
+  font-size: 1.2rem;
+}
